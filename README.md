@@ -40,7 +40,7 @@
 | 镜像站点      | 地址                                           | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------|----------|------------|--------|----------|
 | **AI 智慧岛**   | [chat.lify.vip/](https://chat.lify.vip/)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
-| **一下 AI**     | [www.yixiaai.com/](https://www.yixiaai.com/)               | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | |
+| **一下 AI**     | [chat.yixiaai.com/](https://chat.yixiaai.com/)               | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | |
 | **蓝鲸 AI**  | [chatgpt.lanjing.ai/](https://chatgpt.lanjing.ai/) | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 稳定快速、API调用 |
 | **AI 工具集**  | [yixiaai.cn/](https://yixiaai.cn/)         | GPT-3.5         | 有        | 无需注册   | 中     | |
 
